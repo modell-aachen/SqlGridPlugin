@@ -34,7 +34,7 @@ use Foswiki::Plugins::SqlPlugin;
 
 use Foswiki::Plugins::SqlGridPlugin::SqlParser;
 
-our $VERSION = '$Rev: 13288 $';
+our $VERSION = '0.0.1';
 our $RELEASE = '0.0.1';
 our $SHORTDESCRIPTION = 'Javascript interface for updating an SQL database';
 our $NO_PREFS_IN_TOPIC = 1;
